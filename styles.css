@@ -8,6 +8,11 @@
     margin-top: 80px;
 }
 
+#score {
+    position: absolute;
+    top: 20px;
+}
+
 .grid {
     position: absolute;
     width: 570px;
