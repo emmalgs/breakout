@@ -1,3 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
 .grid {
     position: absolute;
     width: 570px;
@@ -10,4 +20,11 @@
     width: 100px;
     height: 20px;
     background-color: blue;
+}
+
+.user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: purple;
 }
